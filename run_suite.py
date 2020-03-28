@@ -14,7 +14,8 @@ suite = unittest.TestSuite()
 suite.addTest(unittest.makeSuite(TestLogin))
 suite.addTest(unittest.makeSuite(TestEmp))
 # 定义测试报告名称
-ihrm_report_path = app.BASE_DIR + "/report/ihrm {}.html".format(time.strftime("%Y%m%d %H%M%S"))
+# ihrm_report_path = app.BASE_DIR + "/report/ihrm {}.html".format(time.strftime("%Y%m%d %H%M%S"))
+ihrm_report_path = app.BASE_DIR + "/report/ihrm.html"
 
 with open(ihrm_report_path, 'wb') as f:
     # 实例化htmltestrunner
