@@ -1,0 +1,13 @@
+2020-03-26 10:26:47,463 INFO [root] [__init__.py(<module>:13)] - INFO test--------
+2020-03-26 10:26:47,680 INFO [root] [test_login.py(test01_login_success:30)] - 登录成功的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '7c472438-c173-45a4-9eb7-d48f6000b3d3'}
+2020-03-26 10:26:47,762 INFO [root] [test_login.py(test02_password_is_error:40)] - 登录成功的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 10:26:47,850 INFO [root] [test_login.py(test03_mobile_is_not_exist:50)] - 登录成功的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 10:26:47,922 INFO [root] [test_login.py(test04_mobile_has_eng:60)] - 登录成功的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 10:26:47,998 INFO [root] [test_login.py(test05_mobile_has_special:70)] - 登录成功的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 10:26:48,071 INFO [root] [test_login.py(test06_mobile_is_None:80)] - 登录成功的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '13deabe0-49e7-4b2b-a922-e282a38e9f53'}
+2020-03-26 10:26:48,158 INFO [root] [test_login.py(test07_password_is_None:90)] - 登录成功的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 10:26:48,246 INFO [root] [test_login.py(test08_more_params:100)] - 登录成功的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '21142be1-d9fe-4825-afdd-426e9648671b'}
+2020-03-26 10:26:48,318 INFO [root] [test_login.py(test09_less_mobile:110)] - 登录成功的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 10:26:48,407 INFO [root] [test_login.py(test10_less_password:120)] - 登录成功的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 10:26:48,494 INFO [root] [test_login.py(test11_params_is_empty:130)] - 登录成功的结果为：{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2020-03-26 10:26:48,573 INFO [root] [test_login.py(test12_params_is_error:140)] - 登录成功的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}

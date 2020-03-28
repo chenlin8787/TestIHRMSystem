@@ -1,0 +1,26 @@
+2020-03-26 11:15:02,632 INFO [root] [__init__.py(<module>:13)] - INFO test--------
+2020-03-26 11:15:02,873 INFO [root] [test_login_params.py(test01_login:33)] - 登录成功的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '68321c61-9d16-4e04-b0b1-046af1c0fe12'}
+2020-03-26 11:15:02,951 INFO [root] [test_login_params.py(test01_login:33)] - 登录成功的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 11:15:03,024 INFO [root] [test_login_params.py(test01_login:33)] - 登录成功的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 11:15:03,103 INFO [root] [test_login_params.py(test01_login:33)] - 登录成功的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 11:15:03,190 INFO [root] [test_login_params.py(test01_login:33)] - 登录成功的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 11:15:03,266 INFO [root] [test_login_params.py(test01_login:33)] - 登录成功的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 11:15:03,341 INFO [root] [test_login_params.py(test01_login:33)] - 登录成功的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 11:15:03,418 INFO [root] [test_login_params.py(test01_login:33)] - 登录成功的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'b6182ed7-63cc-4605-84fb-3dd8bf58a800'}
+2020-03-26 11:15:03,493 INFO [root] [test_login_params.py(test01_login:33)] - 登录成功的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 11:15:03,572 INFO [root] [test_login_params.py(test01_login:33)] - 登录成功的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 11:15:03,653 INFO [root] [test_login_params.py(test01_login:33)] - 登录成功的结果为：{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2020-03-26 11:15:03,733 INFO [root] [test_login_params.py(test01_login:33)] - 登录成功的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 11:15:28,304 INFO [root] [__init__.py(<module>:13)] - INFO test--------
+2020-03-26 11:15:28,546 INFO [root] [test_login_params.py(test01_login:33)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '40a15300-0a63-4330-84ec-a706670eba53'}
+2020-03-26 11:15:28,622 INFO [root] [test_login_params.py(test01_login:33)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 11:15:28,695 INFO [root] [test_login_params.py(test01_login:33)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 11:15:28,774 INFO [root] [test_login_params.py(test01_login:33)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 11:15:28,862 INFO [root] [test_login_params.py(test01_login:33)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 11:15:28,937 INFO [root] [test_login_params.py(test01_login:33)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 11:15:29,016 INFO [root] [test_login_params.py(test01_login:33)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 11:15:29,095 INFO [root] [test_login_params.py(test01_login:33)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '629aa0e8-7d55-4a17-8fe1-65e342799ea6'}
+2020-03-26 11:15:29,170 INFO [root] [test_login_params.py(test01_login:33)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 11:15:29,242 INFO [root] [test_login_params.py(test01_login:33)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-03-26 11:15:29,317 INFO [root] [test_login_params.py(test01_login:33)] - 登录的结果为：{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2020-03-26 11:15:29,400 INFO [root] [test_login_params.py(test01_login:33)] - 登录的结果为：{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
